@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NNGAccountsAPICore", "NNGAccountsAPICore\NNGAccountsAPICore.csproj", "{63C204E4-D426-4D43-92CF-493C66F6E079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNGAccountsAPICore.Service", "NNGAccountsAPICore.Service\NNGAccountsAPICore.Service.csproj", "{4DD0DAB3-5DB1-4F95-8FF5-A45D9252B444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C204E4-D426-4D43-92CF-493C66F6E079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C204E4-D426-4D43-92CF-493C66F6E079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C204E4-D426-4D43-92CF-493C66F6E079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C204E4-D426-4D43-92CF-493C66F6E079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD0DAB3-5DB1-4F95-8FF5-A45D9252B444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD0DAB3-5DB1-4F95-8FF5-A45D9252B444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD0DAB3-5DB1-4F95-8FF5-A45D9252B444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD0DAB3-5DB1-4F95-8FF5-A45D9252B444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FD5896-16D3-47FF-BC30-F19F6FF0284E}
+	EndGlobalSection
+EndGlobal
